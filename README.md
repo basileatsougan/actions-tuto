@@ -1,4 +1,4 @@
-# Github actions CI/CD
+# GitHub actions CI/CD
 
-1. Creae a workflow
-   .github / workflows/ filename.yaml
+1. Create a workflow
+   filename.yaml
